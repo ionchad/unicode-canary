@@ -20,7 +20,7 @@ Compilers and runtimes execute them anyway.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/unicode-canary
+git clone https://github.com/ionchad/unicode-canary
 cd unicode-canary
 pip install -r requirements.txt
 ```
