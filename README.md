@@ -3,7 +3,7 @@
 > Detect invisible Unicode threats in source code before they execute.
 
 Scans codebases for **Trojan Source** (CVE-2021-42574), **Zero-Width payloads**, 
-**AI Prompt Injection**, and **Homoglyph** attacks — the exact techniques used in 
+**AI Prompt Injection**, and **Homoglyph** attacks, the exact techniques used in 
 the [Glassworm](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode) 
 supply chain attack that hit 150+ GitHub repositories in March 2026.
 
